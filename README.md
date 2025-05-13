@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Grand Prix Ticket Booking System
 
 This project is a GUI-based ticket booking system for the Grand Prix Experience event using Python.
@@ -21,3 +22,6 @@ This project is a GUI-based ticket booking system for the Grand Prix Experience 
 ```bash
 python main.py
 ```
+=======
+# GrandPrix
+>>>>>>> c0c0ff26ddefd2f08c74460d4c6ab29227a5141c
